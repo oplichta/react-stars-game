@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Try it out! App deployed on [react-stars-game](https://react-stars-game.herokuapp.com/)
 
 ## Available Scripts
 
